@@ -1,0 +1,10 @@
+{
+  "name": "react-gamepad-navigation",
+  "version": "0.1.0",
+  "description": "A component based ReactJS library for building navigatable game console interfaces in the web!",
+  "main": "index.js",
+  "repository": "git@github.com:tedboudros/react-gamepad-navigation.git",
+  "author": "Ted Boudros",
+  "license": "MIT",
+  "private": false
+}
